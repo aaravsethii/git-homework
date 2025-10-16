@@ -1,5 +1,11 @@
-1. git is the tool for version control, github is the platform for sharing and managing repositories online
+1. 
+git is the tool for version control, github is the platform for sharing and managing repositories online
 
-2. git add <file> – adds a specific file to the staging area.
+2. 
+git add <file> – adds a specific file to the staging area.
 git add . – adds all new and modified files in the current directory but does not include deleted files.
 git add -A – adds all changes
+
+3. 
+git push – sends your local commits to a remote repository
+git pull – retrieves the latest changes from the remote repository and merges them into your local branch.
