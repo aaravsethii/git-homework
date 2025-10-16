@@ -1,0 +1,1 @@
+git is the tool for version control, github is the platform for sharing and managing repositories online
