@@ -9,3 +9,7 @@ git add -A – adds all changes
 3. 
 git push – sends your local commits to a remote repository
 git pull – retrieves the latest changes from the remote repository and merges them into your local branch.
+
+4.
+git fetch – downloads changes from the remote repository but does not merge them into your local branch.
+git pull – does everything git fetch does, plus automatically merges those changes into your current branch.
